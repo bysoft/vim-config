@@ -1,0 +1,1 @@
+add plugins after janus
