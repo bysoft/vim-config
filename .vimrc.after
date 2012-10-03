@@ -429,3 +429,5 @@ noremap <silent> ,mh <C-W>H
 noremap <silent> ,mk <C-W>J
 set guioptions-=T "get rid of toolbar
 set guioptions-=m "get rid of menu
+
+ au BufNewFile,BufRead *.ejs set filetype=html
