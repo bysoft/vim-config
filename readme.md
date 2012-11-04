@@ -6,3 +6,6 @@ map ctrl-s to save
 
 get janus
 [curl -Lo- https://bit.ly/janus-bootstrap | bash]
+
+fix fontforge with mountain lion
+https://github.com/mxcl/homebrew/issues/14252#issuecomment-7887263
