@@ -8,4 +8,4 @@ get janus
 [curl -Lo- https://bit.ly/janus-bootstrap | bash]
 
 fix fontforge with mountain lion
-https://github.com/mxcl/homebrew/issues/14252#issuecomment-7887263
+brew install https://raw.github.com/ummels/homebrew/fontforge/Library/Formula/fontforge.rb
