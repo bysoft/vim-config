@@ -9,3 +9,7 @@ get janus
 
 fix fontforge with mountain lion
 brew install https://raw.github.com/ummels/homebrew/fontforge/Library/Formula/fontforge.rb
+or
+brew update - brew tap homebrew/homebrew-dupes - brew install apple-gcc42
+
+generate help tags with pathogen..
