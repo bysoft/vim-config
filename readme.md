@@ -1,3 +1,6 @@
+dotfiles
+https://github.com/brianyang/dotfiles
+
 add plugins after janus
 vimrc [https://gist.github.com/1626363]
 
